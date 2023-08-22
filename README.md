@@ -4,7 +4,7 @@
 
 * Docs: https://minitorch.github.io/
 
-* Overview: https://minitorch.github.io/module1.html
+* Overview: [https://minitorch.github.io/module1.html](https://minitorch.github.io/module4/module4/)
 
 This module requires `operators.py` and `modules.py` from Module 0
 
